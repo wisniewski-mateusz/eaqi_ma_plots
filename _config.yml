@@ -20,7 +20,7 @@ title                    : "eaqi"
 title_separator          : "-"
 subtitle                 : Forecasting pollutants concentration and air quality index in Poland with gradient boosted models
 name                     : <a href="https://github.com/wisniewski-mateusz" rel="nofollow">Mateusz Wiśniewski</a>. Some rights reserved
-description              : "Visualization component of the master thesis"
+description              : "Forecasting pollutants concentration and air quality index in Poland with gradient boosted models"
 url                      : "https://wisniewski-mateusz.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wisniewski-mateusz/eaqi_ma_plots"

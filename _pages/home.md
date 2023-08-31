@@ -4,7 +4,7 @@ title: ""
 permalink: /
 toc: True
 toc_label: "Table of contents"
-toc_icon: "fas fa-list-ul"
+toc_icon: "fas fa-cloud-sun-rain"
 toc_sticky: true
 ---
 
