@@ -8,8 +8,6 @@ toc_icon: "fas fa-list-ul"
 toc_sticky: true
 ---
 
-<span style="font-size:xx-large;">**Forecasting pollutants concentration and air quality index in Poland with gradient boosted models**</span>
-
 This site is a visualization complement to the *Forecasting pollutants concentration and air quality index in Poland with gradient boosted models* master thesis. Additional figures can be found here. All of them have the *own study* source.
 
 ## 5.2 Comparison with the CAMS model
