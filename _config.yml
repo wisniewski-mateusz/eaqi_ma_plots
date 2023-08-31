@@ -59,11 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
-search                   : true
-search_full_content      : true
+search                   : #true
+search_full_content      : #true
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : true
+  search_within_pages    : #true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
